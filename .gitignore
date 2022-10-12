@@ -5,3 +5,6 @@ General.rtf
 
 # Jupyter Notebook
 .ipynb_checkpoints
+
+# etc
+.DS_Store
